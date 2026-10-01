@@ -1,25 +1,30 @@
 {
   "authors": [
-    "samsondstl"
+    "michaelem"
   ],
   "contributors": [
-    "elyashiv",
-    "jackhughesweb",
-    "KevinWMatthews",
-    "patricksjackson",
-    "sturzl"
+    "behrtam",
+    "cmccandless",
+    "Dog",
+    "hebertjulio",
+    "ikhadykin",
+    "kytrinyx",
+    "N-Parsons",
+    "NobbZ",
+    "pheanex",
+    "skeskali",
+    "Sukhj1nder",
+    "tqa236"
   ],
   "files": {
     "solution": [
-      "hello_world.cpp",
-      "hello_world.h"
+      "hello_world.py"
     ],
     "test": [
-      "hello_world_test.cpp"
+      "hello_world_test.py"
     ],
     "example": [
-      ".meta/example.cpp",
-      ".meta/example.h"
+      ".meta/example.py"
     ]
   },
   "blurb": "Exercism's classic introductory exercise. Just say \"Hello, World!\".",
